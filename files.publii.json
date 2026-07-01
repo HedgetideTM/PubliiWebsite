@@ -162,7 +162,7 @@
     {
         "path": "/hedgetidetm-2/heuristic-module/index.html",
         "type": "file",
-        "md5": "9d02e760a1b9b38838e1b72049638402"
+        "md5": "b0bb15915d04fcc0afa97569fb163186"
     },
     {
         "path": "hedgetidetm-2/institutional-module",
@@ -172,7 +172,7 @@
     {
         "path": "/hedgetidetm-2/institutional-module/index.html",
         "type": "file",
-        "md5": "9b52af82972145d0c73062ed9c0cb03c"
+        "md5": "fc2a0e26ed5395c3ba1ba0d70a2ae5d7"
     },
     {
         "path": "hedgetidetm-2/non-disclosure-agreement",
@@ -192,7 +192,7 @@
     {
         "path": "/hedgetidetm-2/non-predictive-trading-2/index.html",
         "type": "file",
-        "md5": "b2cbbbd6f458a833ba445067040a5a71"
+        "md5": "3961daf88c0192bee58826137fe042a0"
     },
     {
         "path": "hedgetidetm-2/privacy-policy",
@@ -232,7 +232,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-funding/index.html",
         "type": "file",
-        "md5": "330f6574f7f36227d3f6e06cb73e8eca"
+        "md5": "63e9335239611116678369ee3cdbc1a8"
     },
     {
         "path": "hedgetidetm-2/refund-policy",
@@ -262,12 +262,12 @@
     {
         "path": "/hedgetidetm-2/vip-module/index.html",
         "type": "file",
-        "md5": "b9cc43debd73bb33d40ef6b4e64dec85"
+        "md5": "e24fc9a9d4830edd2d1e014f8c70e44e"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "157172808872ad5e8f27ea1816d6c1a3"
+        "md5": "e605f2012b7a1598b182d2d7495526be"
     },
     {
         "path": "media",
