@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hedgetide.com/sitemap.xml

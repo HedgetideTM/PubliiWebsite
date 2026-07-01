@@ -1,0 +1,432 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "ca320acd533ca77c89b2e0cbadeed0fd"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/animations.css",
+        "type": "file",
+        "md5": "9055edce9b7f41a5566ada106950e480"
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "1ad30a1e0d06d78d7efaf7ab1e804390"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "dfe6ce8661ecb8124dc9bb44e566546f"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "5175749c54f86240853c118505309ea2"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "96e62a4104b0e15d82446bdd32ef5114"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "181a817972fae13eae6ae604ec1087e8"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "dc247aa8c593dd548f1d86ec84fd2349"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/vlad",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/vlad/index.html",
+        "type": "file",
+        "md5": "d032cc5de4d507745ea9539d9885320c"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "c41f7e2767d2c4b033f7d6abfbdf6642"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "707c8f37c380a9bddb32e996aae37738"
+    },
+    {
+        "path": "hedgetidetm-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "hedgetidetm-2/about",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/about/index.html",
+        "type": "file",
+        "md5": "5741cdea1622303ba9167c6d58c4e8f4"
+    },
+    {
+        "path": "hedgetidetm-2/contact",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/contact/index.html",
+        "type": "file",
+        "md5": "ed38828075e540a768c0ba1e1d29f97f"
+    },
+    {
+        "path": "hedgetidetm-2/cookie-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/cookie-policy/index.html",
+        "type": "file",
+        "md5": "de752451f519ae1604f005fc72fd35d8"
+    },
+    {
+        "path": "hedgetidetm-2/copyright-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/copyright-policy/index.html",
+        "type": "file",
+        "md5": "61a2d4ff5f5acb4547fdc7226d7fe273"
+    },
+    {
+        "path": "hedgetidetm-2/disclaimer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/disclaimer/index.html",
+        "type": "file",
+        "md5": "19b18703716f00f74fd43fe9fefcd0a6"
+    },
+    {
+        "path": "hedgetidetm-2/heuristic-module",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/heuristic-module/index.html",
+        "type": "file",
+        "md5": "9d02e760a1b9b38838e1b72049638402"
+    },
+    {
+        "path": "hedgetidetm-2/institutional-module",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/institutional-module/index.html",
+        "type": "file",
+        "md5": "9b52af82972145d0c73062ed9c0cb03c"
+    },
+    {
+        "path": "hedgetidetm-2/non-disclosure-agreement",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/non-disclosure-agreement/index.html",
+        "type": "file",
+        "md5": "32b4dd3485c690b22de246718237b276"
+    },
+    {
+        "path": "hedgetidetm-2/non-predictive-trading-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/non-predictive-trading-2/index.html",
+        "type": "file",
+        "md5": "b2cbbbd6f458a833ba445067040a5a71"
+    },
+    {
+        "path": "hedgetidetm-2/privacy-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/privacy-policy/index.html",
+        "type": "file",
+        "md5": "d3596feb462f6ee34d7ad82d4b3a29fa"
+    },
+    {
+        "path": "hedgetidetm-2/proprietary-data-disclaimer",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/proprietary-data-disclaimer/index.html",
+        "type": "file",
+        "md5": "bb545cd0fae2b59b54bf14341448505a"
+    },
+    {
+        "path": "hedgetidetm-2/proprietary-data-licensing-agreement",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/proprietary-data-licensing-agreement/index.html",
+        "type": "file",
+        "md5": "dd89e3cadfefc830a987279d49151a11"
+    },
+    {
+        "path": "hedgetidetm-2/proprietary-funding",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/proprietary-funding/index.html",
+        "type": "file",
+        "md5": "330f6574f7f36227d3f6e06cb73e8eca"
+    },
+    {
+        "path": "hedgetidetm-2/refund-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/refund-policy/index.html",
+        "type": "file",
+        "md5": "86a94a88bd2db33eb2242c7da0bb3c98"
+    },
+    {
+        "path": "hedgetidetm-2/terms-and-conditions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/terms-and-conditions/index.html",
+        "type": "file",
+        "md5": "b25332b3672b2693b3fc1c768f93a3c3"
+    },
+    {
+        "path": "hedgetidetm-2/vip-module",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hedgetidetm-2/vip-module/index.html",
+        "type": "file",
+        "md5": "b9cc43debd73bb33d40ef6b4e64dec85"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "157172808872ad5e8f27ea1816d6c1a3"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/About.jpg",
+        "type": "file",
+        "md5": "259e50178406acb3f4cbbd2fcd11de80"
+    },
+    {
+        "path": "media/posts/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/Contact.jpg",
+        "type": "file",
+        "md5": "f4e140b56c0e20e72513ce2b74bb7d8c"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/HedgeTIDE-Cover.jpg",
+        "type": "file",
+        "md5": "7689db9d21a054b1d4a47ecd1ff9a48a"
+    },
+    {
+        "path": "/media/posts/3/HedgeTIDE-Description-Images-2.jpg",
+        "type": "file",
+        "md5": "46acd1e5c5d858e6bc9e1b1ddec90f5d"
+    },
+    {
+        "path": "/media/posts/3/HedgeTIDE-Descriptions-2.jpg",
+        "type": "file",
+        "md5": "bc056c218df9759a30711d1661238e37"
+    },
+    {
+        "path": "/media/posts/3/HedgeTIDE-Modules-2.jpg",
+        "type": "file",
+        "md5": "4e53839467064731d3d1ef733bc4864d"
+    },
+    {
+        "path": "/media/posts/3/Proprietary-Methodology-01-2.jpg",
+        "type": "file",
+        "md5": "c0ae508f5b83ab4fc6619400f0cc9705"
+    },
+    {
+        "path": "/media/posts/3/Proprietary-Methodology-02-2.jpg",
+        "type": "file",
+        "md5": "b326180e4d45fec6ec3f8a584adc31d5"
+    },
+    {
+        "path": "/media/posts/3/Structural-Asymmetric-Total-Return-Blueprint-2.jpg",
+        "type": "file",
+        "md5": "f468020f0d8835117c767d20561ec346"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/Non-predictive-Trading.jpg",
+        "type": "file",
+        "md5": "62c1b972447830d36391c8e568178bed"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/Heuristic-Module.jpg",
+        "type": "file",
+        "md5": "9cd85d704c13148faf59196d8a5046b9"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/VIP-Module.jpg",
+        "type": "file",
+        "md5": "1ce6270585698b8744f077634ae07ec3"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/Proprietary-Funding.jpg",
+        "type": "file",
+        "md5": "906ad70196a8d7967a1c2c9868e009b8"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/Institutional-Module.jpg",
+        "type": "file",
+        "md5": "25832f7fd50e653ba37c34aa5b028d2d"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/HedgeTIDE-Image-24.png",
+        "type": "file",
+        "md5": "9f00021a8f15ff679644ffdb1253def2"
+    },
+    {
+        "path": "/media/website/HedgeTIDE-Image-27.jpg",
+        "type": "file",
+        "md5": "5d0977779fe2d60f60d3e725b1d3694a"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "49aacd203abfaeacb5e3a0c4273f3bea"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "bbb9306203e7a5e1ba5a6d4c28daa33f"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "2a9d589e25965b26c864035eafd11620"
+    }
+]
