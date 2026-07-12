@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "8e1a93292ebbbc2b37bfcb2ee2d4aea0"
+        "md5": "34b5ff438446b094c62867e0e2195bc0"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "9ff5859fe7a7e5d22a13268ed08ce441"
+        "md5": "235cb08a74cf61324d3e2cd4b67c4725"
     },
     {
         "path": "assets/dynamic",
@@ -87,7 +87,7 @@
     {
         "path": "/authors/vlad/index.html",
         "type": "file",
-        "md5": "2f419429e20a7473e024181befa3e730"
+        "md5": "9c7f3c295b95111a67eb62d377c7ec2f"
     },
     {
         "path": "feed.json",
@@ -112,7 +112,7 @@
     {
         "path": "/hedgetidetm-2/about/index.html",
         "type": "file",
-        "md5": "7a4fd98c03be191d8a2fb8fdf556d3f1"
+        "md5": "3cc453d94ce3c4a31633a44a54e3682e"
     },
     {
         "path": "hedgetidetm-2/contact",
@@ -122,7 +122,7 @@
     {
         "path": "/hedgetidetm-2/contact/index.html",
         "type": "file",
-        "md5": "603205eaaa82b5b69b98f2bf990069bf"
+        "md5": "6b448a37b81701ea877c6eaf7d7ade64"
     },
     {
         "path": "hedgetidetm-2/cookie-policy",
@@ -132,7 +132,7 @@
     {
         "path": "/hedgetidetm-2/cookie-policy/index.html",
         "type": "file",
-        "md5": "1f78a98ac3d81d268f3ebfd9f3e341f3"
+        "md5": "681551a8191ef576fbf742f0592e510f"
     },
     {
         "path": "hedgetidetm-2/cookie-policy-2",
@@ -142,7 +142,7 @@
     {
         "path": "/hedgetidetm-2/cookie-policy-2/index.html",
         "type": "file",
-        "md5": "b69bdec95f4656fe35719b0c3f036aec"
+        "md5": "baf86c6588d9d9cbbdd294517a11a7f4"
     },
     {
         "path": "hedgetidetm-2/copyright-policy",
@@ -152,7 +152,7 @@
     {
         "path": "/hedgetidetm-2/copyright-policy/index.html",
         "type": "file",
-        "md5": "ed6a37c1a1220401fb59c6b0f88bda88"
+        "md5": "4ed251296dc009599d6651c6fdec64ae"
     },
     {
         "path": "hedgetidetm-2/copyright-policy-2",
@@ -162,7 +162,7 @@
     {
         "path": "/hedgetidetm-2/copyright-policy-2/index.html",
         "type": "file",
-        "md5": "3b53265d95785e3a59f6d328a7096cdf"
+        "md5": "fd118dc85ff16965ea51caf464b785b7"
     },
     {
         "path": "hedgetidetm-2/disclaimer",
@@ -172,7 +172,7 @@
     {
         "path": "/hedgetidetm-2/disclaimer/index.html",
         "type": "file",
-        "md5": "07fca550e34f4de66769acf7c14b2888"
+        "md5": "47259a01e1be5207646f1459739b58f2"
     },
     {
         "path": "hedgetidetm-2/disclaimer-2",
@@ -182,7 +182,7 @@
     {
         "path": "/hedgetidetm-2/disclaimer-2/index.html",
         "type": "file",
-        "md5": "e3728cdf45f33f3c102a9c0f3de851f9"
+        "md5": "6dc05cf335c20b08c1b264a1185125fb"
     },
     {
         "path": "hedgetidetm-2/heuristic-module",
@@ -192,7 +192,7 @@
     {
         "path": "/hedgetidetm-2/heuristic-module/index.html",
         "type": "file",
-        "md5": "8ba4240a489f6aab13b2573c60a8d65e"
+        "md5": "8de1d8a68f87577d36e703ddef8ed852"
     },
     {
         "path": "hedgetidetm-2/institutional-module",
@@ -202,7 +202,7 @@
     {
         "path": "/hedgetidetm-2/institutional-module/index.html",
         "type": "file",
-        "md5": "87d164b6ccd38f86ff23676ccb66e2ab"
+        "md5": "8e4a587b188d546e85e595644bcfe826"
     },
     {
         "path": "hedgetidetm-2/non-disclosure-agreement",
@@ -212,7 +212,7 @@
     {
         "path": "/hedgetidetm-2/non-disclosure-agreement/index.html",
         "type": "file",
-        "md5": "261347dffa4a233b02b2c72278457fa1"
+        "md5": "7cf2f54d71719d77557d3e88cb858ac0"
     },
     {
         "path": "hedgetidetm-2/non-disclosure-agreement-2",
@@ -222,7 +222,7 @@
     {
         "path": "/hedgetidetm-2/non-disclosure-agreement-2/index.html",
         "type": "file",
-        "md5": "fe2fa61ea860b933bfe389c0a741372e"
+        "md5": "76ca3c1b187f9c0178babde0686991a4"
     },
     {
         "path": "hedgetidetm-2/non-predictive-trading-2",
@@ -232,7 +232,7 @@
     {
         "path": "/hedgetidetm-2/non-predictive-trading-2/index.html",
         "type": "file",
-        "md5": "1f2da94f9a10c0601fb477a0ab927c83"
+        "md5": "10d342d243e5f3560302fd7fe61b9951"
     },
     {
         "path": "hedgetidetm-2/privacy-policy",
@@ -242,7 +242,7 @@
     {
         "path": "/hedgetidetm-2/privacy-policy/index.html",
         "type": "file",
-        "md5": "d424389bef08aae6ca249e51ef52640b"
+        "md5": "d4d8cc4fba04d96d2b36a891ac116e47"
     },
     {
         "path": "hedgetidetm-2/privacy-policy-2",
@@ -252,7 +252,7 @@
     {
         "path": "/hedgetidetm-2/privacy-policy-2/index.html",
         "type": "file",
-        "md5": "cee42aa89e5fb759f794b1afb0b2b1d2"
+        "md5": "b94bcacb9d558a5d4021920962a3dda1"
     },
     {
         "path": "hedgetidetm-2/proprietary-data-disclaimer",
@@ -262,7 +262,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-data-disclaimer/index.html",
         "type": "file",
-        "md5": "beddb2d46c964e25a568b2f9e837d07a"
+        "md5": "d58e02a876357fafa32a2b337df8d4c7"
     },
     {
         "path": "hedgetidetm-2/proprietary-data-disclaimer-2",
@@ -272,7 +272,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-data-disclaimer-2/index.html",
         "type": "file",
-        "md5": "2a124fd8ab6575d4a5cae6bb212b7b1d"
+        "md5": "73002b5f3480d135427885a5fb9b38c2"
     },
     {
         "path": "hedgetidetm-2/proprietary-data-licensing-agreement",
@@ -282,7 +282,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-data-licensing-agreement/index.html",
         "type": "file",
-        "md5": "1424495a757ba6735ddb9f103c6b298b"
+        "md5": "0b065395ce708f1aea10818612df71e7"
     },
     {
         "path": "hedgetidetm-2/proprietary-funding",
@@ -292,7 +292,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-funding/index.html",
         "type": "file",
-        "md5": "f202fd3090f99151549c87c52637532f"
+        "md5": "706574c4ad3736ca07978eaed29609bc"
     },
     {
         "path": "hedgetidetm-2/refund-policy",
@@ -302,7 +302,7 @@
     {
         "path": "/hedgetidetm-2/refund-policy/index.html",
         "type": "file",
-        "md5": "73abc94e24d3fb922a255f6fd29a0f52"
+        "md5": "8834c00a46bb5f76de8b5d6901c7a0b1"
     },
     {
         "path": "hedgetidetm-2/refund-policy-2",
@@ -312,7 +312,7 @@
     {
         "path": "/hedgetidetm-2/refund-policy-2/index.html",
         "type": "file",
-        "md5": "a35c5218d65894b901293689654f351a"
+        "md5": "a66b1d99ecefb9231a2e71eef7b0a264"
     },
     {
         "path": "hedgetidetm-2/terms-and-conditions",
@@ -322,7 +322,7 @@
     {
         "path": "/hedgetidetm-2/terms-and-conditions/index.html",
         "type": "file",
-        "md5": "6cadbcb79b62e82c22f124de44e69bfb"
+        "md5": "4046497386ed443b0be9c6cee806449a"
     },
     {
         "path": "hedgetidetm-2/terms-and-conditions-2",
@@ -332,7 +332,7 @@
     {
         "path": "/hedgetidetm-2/terms-and-conditions-2/index.html",
         "type": "file",
-        "md5": "78fbdacc5f2ed5046b4d946abf5389f6"
+        "md5": "d4e57f5019717dfe059e631a79ad5deb"
     },
     {
         "path": "hedgetidetm-2/vip-module",
@@ -342,12 +342,12 @@
     {
         "path": "/hedgetidetm-2/vip-module/index.html",
         "type": "file",
-        "md5": "6c71541e94069afd7b6841b477ac4fa6"
+        "md5": "c94dc89c3e998f38c7bd334a7f86797e"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "de6fdc7c74259afee96ee664731a35ef"
+        "md5": "7720cc698ee04ce00bf3d34f28a05440"
     },
     {
         "path": "media",
@@ -507,6 +507,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "3bcfa904721869e2f0665a5fb29d7748"
+        "md5": "57b6de1db93f354ac45e6980c8df2089"
     }
 ]
