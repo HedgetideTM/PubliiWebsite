@@ -292,7 +292,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-funding/index.html",
         "type": "file",
-        "md5": "239262b4f714cc743fb1cb19ca5fda29"
+        "md5": "7ad0b7a250e1b61703cd380809e4e0b5"
     },
     {
         "path": "hedgetidetm-2/refund-policy",
@@ -342,12 +342,12 @@
     {
         "path": "/hedgetidetm-2/vip-module/index.html",
         "type": "file",
-        "md5": "3416160b5a08bc8d95686630eb9ae7ef"
+        "md5": "22212159b4b0bb37076b80ce666fecea"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "45d495c90711a60ba641f6d2a062529b"
+        "md5": "88778ad08006128cb460b703249f9b17"
     },
     {
         "path": "media",
@@ -445,9 +445,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/7/VIP-Module.jpg",
+        "path": "/media/posts/7/VIP-Module-2.jpg",
         "type": "file",
-        "md5": "1ce6270585698b8744f077634ae07ec3"
+        "md5": "496e9395bf0aa70721f77167462dc1f5"
     },
     {
         "path": "media/posts/8",
@@ -455,9 +455,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/8/Proprietary-Funding.jpg",
+        "path": "/media/posts/8/Proprietary-Funding-2.jpg",
         "type": "file",
-        "md5": "906ad70196a8d7967a1c2c9868e009b8"
+        "md5": "ed11f98b8c42a3107791c9121665d068"
     },
     {
         "path": "media/posts/9",
