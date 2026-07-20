@@ -192,7 +192,7 @@
     {
         "path": "/hedgetidetm-2/heuristic-module/index.html",
         "type": "file",
-        "md5": "1d0e5fc4a546e1eae520cb25cfdaeb3f"
+        "md5": "f2babb2cce32c6d334f817ea74804a64"
     },
     {
         "path": "hedgetidetm-2/institutional-module",
@@ -202,7 +202,7 @@
     {
         "path": "/hedgetidetm-2/institutional-module/index.html",
         "type": "file",
-        "md5": "524fed80bf7c620a17276a62c4538aa8"
+        "md5": "d2edc199b6732460d8fab50b15f75b89"
     },
     {
         "path": "hedgetidetm-2/non-disclosure-agreement",
@@ -292,7 +292,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-funding/index.html",
         "type": "file",
-        "md5": "7ad0b7a250e1b61703cd380809e4e0b5"
+        "md5": "67c5c5891b9586b0ba27cb23a02f5f07"
     },
     {
         "path": "hedgetidetm-2/refund-policy",
@@ -342,7 +342,7 @@
     {
         "path": "/hedgetidetm-2/vip-module/index.html",
         "type": "file",
-        "md5": "5e47520b1aa976bf4b255f93f7860028"
+        "md5": "f066273307abf1e13df7d0581769bb40"
     },
     {
         "path": "index.html",
@@ -435,9 +435,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/6/Heuristic-Module.jpg",
+        "path": "/media/posts/6/Heuristic-Module-2.jpg",
         "type": "file",
-        "md5": "9cd85d704c13148faf59196d8a5046b9"
+        "md5": "0a8fe3b49cb54048270443935cbd0181"
     },
     {
         "path": "media/posts/7",
@@ -445,9 +445,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/7/VIP-Module-2.jpg",
+        "path": "/media/posts/7/VIP-Module.jpg",
         "type": "file",
-        "md5": "586b97fa7332a62fdd37d179e4146c5f"
+        "md5": "b415f1e582c8906fb2bdbbc8924a3d23"
     },
     {
         "path": "media/posts/8",
@@ -455,9 +455,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/8/Proprietary-Funding-2.jpg",
+        "path": "/media/posts/8/Proprietary-Funding.jpg",
         "type": "file",
-        "md5": "ed11f98b8c42a3107791c9121665d068"
+        "md5": "3c9114c38a61acf6a4af9aa7b43115aa"
     },
     {
         "path": "media/posts/9",
@@ -465,9 +465,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/9/Institutional-Module.jpg",
+        "path": "/media/posts/9/Institutional-Module-2.jpg",
         "type": "file",
-        "md5": "25832f7fd50e653ba37c34aa5b028d2d"
+        "md5": "a4fb10d576fe6d6fe9fd8f57ac7f0c64"
     },
     {
         "path": "media/website",
