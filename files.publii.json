@@ -112,7 +112,7 @@
     {
         "path": "/hedgetidetm-2/about/index.html",
         "type": "file",
-        "md5": "591fe908b7199bab18739dc71baa1643"
+        "md5": "0a9452fc10aeff8c3515fa0821e54720"
     },
     {
         "path": "hedgetidetm-2/contact",
@@ -122,7 +122,7 @@
     {
         "path": "/hedgetidetm-2/contact/index.html",
         "type": "file",
-        "md5": "4e3ffc09298803a62eae81e97e5f157a"
+        "md5": "941816908076b2fd45b520a0f65dd4d9"
     },
     {
         "path": "hedgetidetm-2/cookie-policy",
@@ -192,7 +192,7 @@
     {
         "path": "/hedgetidetm-2/heuristic-module/index.html",
         "type": "file",
-        "md5": "dd9cb8a142ea45d3d0b92afe63dac5b1"
+        "md5": "640b648f150ae9c1ba2d117aec526bea"
     },
     {
         "path": "hedgetidetm-2/institutional-module",
@@ -202,7 +202,7 @@
     {
         "path": "/hedgetidetm-2/institutional-module/index.html",
         "type": "file",
-        "md5": "f91e72ee1e19744ea1c6d7decf005925"
+        "md5": "9a72ae934f8402967bbf9929796a78af"
     },
     {
         "path": "hedgetidetm-2/non-disclosure-agreement",
@@ -232,7 +232,7 @@
     {
         "path": "/hedgetidetm-2/non-predictive-trading-2/index.html",
         "type": "file",
-        "md5": "c3eca93c9f6ec106484dec3d4637962b"
+        "md5": "46a134fb42735d69080750feacd6399b"
     },
     {
         "path": "hedgetidetm-2/privacy-policy",
@@ -292,7 +292,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-funding/index.html",
         "type": "file",
-        "md5": "11cdb832009b55b8b3775286a5e15c47"
+        "md5": "541c3ff141b6417b1971bc12745154f1"
     },
     {
         "path": "hedgetidetm-2/refund-policy",
@@ -342,12 +342,12 @@
     {
         "path": "/hedgetidetm-2/vip-module/index.html",
         "type": "file",
-        "md5": "d384a7ca91e19632f566df9b941c5bb3"
+        "md5": "36a81366ef237caf1095bdb328e65195"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "49d24d3afe8966b04ea56aea46e56024"
+        "md5": "c1f4acea0eadeff2d0797163be29b6e6"
     },
     {
         "path": "media",
@@ -370,36 +370,6 @@
         "md5": "087cb5aabfce2b28f4503fe379500d30"
     },
     {
-        "path": "media/posts/19/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/19/responsive/About-lg.webp",
-        "type": "file",
-        "md5": "5b07331216f86bb29c3a7fd6c5267716"
-    },
-    {
-        "path": "/media/posts/19/responsive/About-md.webp",
-        "type": "file",
-        "md5": "d556698eeb6653273b22c3e90576469e"
-    },
-    {
-        "path": "/media/posts/19/responsive/About-sm.webp",
-        "type": "file",
-        "md5": "10cbc4771fe459100fae5b3aa0ac2d1c"
-    },
-    {
-        "path": "/media/posts/19/responsive/About-xl.webp",
-        "type": "file",
-        "md5": "5b07331216f86bb29c3a7fd6c5267716"
-    },
-    {
-        "path": "/media/posts/19/responsive/About-xs.webp",
-        "type": "file",
-        "md5": "84d03bcc47ce34f7df7b4c781ee5c642"
-    },
-    {
         "path": "media/posts/20",
         "type": "directory",
         "md5": false
@@ -408,36 +378,6 @@
         "path": "/media/posts/20/Contact-2.webp",
         "type": "file",
         "md5": "b3a2ff1b47a5b512ed1b7a422579de5d"
-    },
-    {
-        "path": "media/posts/20/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/20/responsive/Contact-2-lg.webp",
-        "type": "file",
-        "md5": "370153345fe8019ea904d7e5dc91c87f"
-    },
-    {
-        "path": "/media/posts/20/responsive/Contact-2-md.webp",
-        "type": "file",
-        "md5": "7600f8e9f6b96191fe174ec20ffa190e"
-    },
-    {
-        "path": "/media/posts/20/responsive/Contact-2-sm.webp",
-        "type": "file",
-        "md5": "159f5506baeb6125f6f67e32dd21f369"
-    },
-    {
-        "path": "/media/posts/20/responsive/Contact-2-xl.webp",
-        "type": "file",
-        "md5": "370153345fe8019ea904d7e5dc91c87f"
-    },
-    {
-        "path": "/media/posts/20/responsive/Contact-2-xs.webp",
-        "type": "file",
-        "md5": "e67c3931019a4bafc14161bff68042e6"
     },
     {
         "path": "media/posts/3",
@@ -475,186 +415,6 @@
         "md5": "e88386782eb5da7300877c3b185b1013"
     },
     {
-        "path": "media/posts/3/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Cover-2-lg.webp",
-        "type": "file",
-        "md5": "3c4dde4946104212f889ee56ae315240"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Cover-2-md.webp",
-        "type": "file",
-        "md5": "66de32e6a61cea4681ff5be8a67c345a"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Cover-2-sm.webp",
-        "type": "file",
-        "md5": "8a6ef7ec82d262f95d118cc80d1f9f8d"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Cover-2-xl.webp",
-        "type": "file",
-        "md5": "ab6b7188b71f7449c166a687c9506f54"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Cover-2-xs.webp",
-        "type": "file",
-        "md5": "81debcb4d61a025c0a7654a1eff61831"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Description-Images-2-lg.webp",
-        "type": "file",
-        "md5": "f00e11a900c49892c719ff2a2e626a4d"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Description-Images-2-md.webp",
-        "type": "file",
-        "md5": "97b87ff1c7fc77c4ae9b361838828ada"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Description-Images-2-sm.webp",
-        "type": "file",
-        "md5": "712b2894989f2229170af3220210390e"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Description-Images-2-xl.webp",
-        "type": "file",
-        "md5": "a9a198358d6a2d74986d156740f4d5e8"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Description-Images-2-xs.webp",
-        "type": "file",
-        "md5": "1c918f91305519802bce7ca515555179"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Descriptions-2-lg.webp",
-        "type": "file",
-        "md5": "128d24ea72c5e72fa099dbbc7bf7f34e"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Descriptions-2-md.webp",
-        "type": "file",
-        "md5": "5a865abbcd1041eb0e9ded2132cb7636"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Descriptions-2-sm.webp",
-        "type": "file",
-        "md5": "c8b59d9e059bc80ed327029b8939c87d"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Descriptions-2-xl.webp",
-        "type": "file",
-        "md5": "dc1c1d02ce6aa1e29f1ed2c048368076"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Descriptions-2-xs.webp",
-        "type": "file",
-        "md5": "1972df83aafae1006ddb1629ae80dd6d"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Modules-2-lg.webp",
-        "type": "file",
-        "md5": "972443cdf9e1b1bacb4d109b771c9356"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Modules-2-md.webp",
-        "type": "file",
-        "md5": "cc993335847807293c17be4cdae1eefc"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Modules-2-sm.webp",
-        "type": "file",
-        "md5": "0076c623d71221256810d01e30a6cb9c"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Modules-2-xl.webp",
-        "type": "file",
-        "md5": "eb092ec59cba6932f3a9edb5be8b6a6f"
-    },
-    {
-        "path": "/media/posts/3/responsive/HedgeTIDE-Modules-2-xs.webp",
-        "type": "file",
-        "md5": "1cd06e11bbad392873d67608ba0637f0"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-01-2-lg.webp",
-        "type": "file",
-        "md5": "a81a4d5afe189e839284fcbf2ad81ba6"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-01-2-md.webp",
-        "type": "file",
-        "md5": "d5aad58cd4d44a84d7d26b4ba56b495c"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-01-2-sm.webp",
-        "type": "file",
-        "md5": "0e1875c201cb2b319ad169a20a041e2e"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-01-2-xl.webp",
-        "type": "file",
-        "md5": "70e6548e86340ea00bdfe2480ea640b6"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-01-2-xs.webp",
-        "type": "file",
-        "md5": "743e9788128408c5bef284a63797b113"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-02-2-lg.webp",
-        "type": "file",
-        "md5": "31f4bbed0c87f6ff6a0f27e295e0a1bc"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-02-2-md.webp",
-        "type": "file",
-        "md5": "a186334b56d10d88c28f67fd4887ee18"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-02-2-sm.webp",
-        "type": "file",
-        "md5": "b3cba1e7b5305a617798d835f9d8bb58"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-02-2-xl.webp",
-        "type": "file",
-        "md5": "b4828babda7f87b0a6f35de0e4b9ec9f"
-    },
-    {
-        "path": "/media/posts/3/responsive/Proprietary-Methodology-02-2-xs.webp",
-        "type": "file",
-        "md5": "c977f1130f8b36562ea3b3cdd1d458ec"
-    },
-    {
-        "path": "/media/posts/3/responsive/Structural-Asymmetric-Total-Return-Blueprint-2-lg.webp",
-        "type": "file",
-        "md5": "08e73a67f47856e3671d05557a44442a"
-    },
-    {
-        "path": "/media/posts/3/responsive/Structural-Asymmetric-Total-Return-Blueprint-2-md.webp",
-        "type": "file",
-        "md5": "dc749523823b9df4ed719e61cd7d41ec"
-    },
-    {
-        "path": "/media/posts/3/responsive/Structural-Asymmetric-Total-Return-Blueprint-2-sm.webp",
-        "type": "file",
-        "md5": "a82c3f723859ef4f822e6347609700b2"
-    },
-    {
-        "path": "/media/posts/3/responsive/Structural-Asymmetric-Total-Return-Blueprint-2-xl.webp",
-        "type": "file",
-        "md5": "38ee76e966cbbe2517d6a58485b5a59c"
-    },
-    {
-        "path": "/media/posts/3/responsive/Structural-Asymmetric-Total-Return-Blueprint-2-xs.webp",
-        "type": "file",
-        "md5": "ced8424425e8b965754f0f74a9c34db2"
-    },
-    {
         "path": "/media/posts/3/Structural-Asymmetric-Total-Return-Blueprint-2.webp",
         "type": "file",
         "md5": "d9c32a33469332555e237b7cbf98e61a"
@@ -670,36 +430,6 @@
         "md5": "c6c83fd84661c620a0b858bfa2e84fb4"
     },
     {
-        "path": "media/posts/5/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/5/responsive/Non-predictive-Trading-2-lg.webp",
-        "type": "file",
-        "md5": "13e825674dccfbc44ecd323fcff2e85d"
-    },
-    {
-        "path": "/media/posts/5/responsive/Non-predictive-Trading-2-md.webp",
-        "type": "file",
-        "md5": "2fc7740849aaf2740bce7c39e1593eae"
-    },
-    {
-        "path": "/media/posts/5/responsive/Non-predictive-Trading-2-sm.webp",
-        "type": "file",
-        "md5": "c17dec68c8af14fbfee9cf0a20a1cf46"
-    },
-    {
-        "path": "/media/posts/5/responsive/Non-predictive-Trading-2-xl.webp",
-        "type": "file",
-        "md5": "13e825674dccfbc44ecd323fcff2e85d"
-    },
-    {
-        "path": "/media/posts/5/responsive/Non-predictive-Trading-2-xs.webp",
-        "type": "file",
-        "md5": "010d143915c1bfc9692c57385832325a"
-    },
-    {
         "path": "media/posts/6",
         "type": "directory",
         "md5": false
@@ -710,69 +440,9 @@
         "md5": "07cc551125a8b057c0d064f37e3c5c3d"
     },
     {
-        "path": "media/posts/6/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/6/responsive/Heuristic-Module-2-lg.webp",
-        "type": "file",
-        "md5": "6131d144671b28f33e74e2bc76656e8a"
-    },
-    {
-        "path": "/media/posts/6/responsive/Heuristic-Module-2-md.webp",
-        "type": "file",
-        "md5": "c21e7171bbeb03eda21fac532f79cc86"
-    },
-    {
-        "path": "/media/posts/6/responsive/Heuristic-Module-2-sm.webp",
-        "type": "file",
-        "md5": "7a2368b87faab2df5b182564168f415d"
-    },
-    {
-        "path": "/media/posts/6/responsive/Heuristic-Module-2-xl.webp",
-        "type": "file",
-        "md5": "65d13a3a4c08eba087c60702d9b46da0"
-    },
-    {
-        "path": "/media/posts/6/responsive/Heuristic-Module-2-xs.webp",
-        "type": "file",
-        "md5": "58d164fb33015d4cc3e9f060e6994ff7"
-    },
-    {
         "path": "media/posts/7",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "media/posts/7/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/7/responsive/VIP-Module-lg.webp",
-        "type": "file",
-        "md5": "6954b569c97e4cc7821b2cc51021d6ce"
-    },
-    {
-        "path": "/media/posts/7/responsive/VIP-Module-md.webp",
-        "type": "file",
-        "md5": "6edc195a636913fea1ec03de1b7fc661"
-    },
-    {
-        "path": "/media/posts/7/responsive/VIP-Module-sm.webp",
-        "type": "file",
-        "md5": "e2c4b2fdb593af7c6fdee8f567938356"
-    },
-    {
-        "path": "/media/posts/7/responsive/VIP-Module-xl.webp",
-        "type": "file",
-        "md5": "6954b569c97e4cc7821b2cc51021d6ce"
-    },
-    {
-        "path": "/media/posts/7/responsive/VIP-Module-xs.webp",
-        "type": "file",
-        "md5": "b64fee9a70f2403ff967453458efacd7"
     },
     {
         "path": "/media/posts/7/VIP-Module.webp",
@@ -790,36 +460,6 @@
         "md5": "5ba3da2d5ea0abdec98f2e6658d112d6"
     },
     {
-        "path": "media/posts/8/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/8/responsive/Proprietary-Funding-2-lg.webp",
-        "type": "file",
-        "md5": "c53fae4ac2baccda2b0079ccf3e6845f"
-    },
-    {
-        "path": "/media/posts/8/responsive/Proprietary-Funding-2-md.webp",
-        "type": "file",
-        "md5": "8b7082b610534594d7fdf693d948cfb1"
-    },
-    {
-        "path": "/media/posts/8/responsive/Proprietary-Funding-2-sm.webp",
-        "type": "file",
-        "md5": "32864bd0736f1dd3ccb7207ff21257d3"
-    },
-    {
-        "path": "/media/posts/8/responsive/Proprietary-Funding-2-xl.webp",
-        "type": "file",
-        "md5": "8e483408d0eb87786a08d5e0e4341c55"
-    },
-    {
-        "path": "/media/posts/8/responsive/Proprietary-Funding-2-xs.webp",
-        "type": "file",
-        "md5": "65ce9b912c99d65d466e0567fca9beee"
-    },
-    {
         "path": "media/posts/9",
         "type": "directory",
         "md5": false
@@ -828,36 +468,6 @@
         "path": "/media/posts/9/Institutional-Module-2.webp",
         "type": "file",
         "md5": "c539d55afe0873e3cee9715d26f6f230"
-    },
-    {
-        "path": "media/posts/9/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/9/responsive/Institutional-Module-2-lg.webp",
-        "type": "file",
-        "md5": "49e061eb055912b4aa7a30a4f591550c"
-    },
-    {
-        "path": "/media/posts/9/responsive/Institutional-Module-2-md.webp",
-        "type": "file",
-        "md5": "0c17e9c274f7b4e2e1f9d79efe9313f1"
-    },
-    {
-        "path": "/media/posts/9/responsive/Institutional-Module-2-sm.webp",
-        "type": "file",
-        "md5": "c316088f084163d217ebad139e25b997"
-    },
-    {
-        "path": "/media/posts/9/responsive/Institutional-Module-2-xl.webp",
-        "type": "file",
-        "md5": "bd5c45fc43101ef71ca862e9a69a6356"
-    },
-    {
-        "path": "/media/posts/9/responsive/Institutional-Module-2-xs.webp",
-        "type": "file",
-        "md5": "b6ef996cd6ca9d756ef503ece96f1aa9"
     },
     {
         "path": "media/website",
@@ -873,81 +483,6 @@
         "path": "/media/website/Hedgetide-MethodTM-Logo-01.webp",
         "type": "file",
         "md5": "f7037c98a4b410b2c8930049be79fdf2"
-    },
-    {
-        "path": "media/website/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-2-lg.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-2-md.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-2-sm.webp",
-        "type": "file",
-        "md5": "e5916a1523a89b3517f1ae73e7373581"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-2-xl.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-2-xs.webp",
-        "type": "file",
-        "md5": "d863dfba7dadbed37dba0fb5b49d5ec7"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-2-xxl.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-2-xxxl.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-lg.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-md.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-sm.webp",
-        "type": "file",
-        "md5": "e5916a1523a89b3517f1ae73e7373581"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-xl.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-xs.webp",
-        "type": "file",
-        "md5": "d863dfba7dadbed37dba0fb5b49d5ec7"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-xxl.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
-    },
-    {
-        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-xxxl.webp",
-        "type": "file",
-        "md5": "05b73f78c370ed244c506b6ba887edec"
     },
     {
         "path": "robots.txt",
