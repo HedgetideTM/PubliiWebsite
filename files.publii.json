@@ -865,54 +865,19 @@
         "md5": false
     },
     {
-        "path": "/media/website/HedgeTIDE-Image-24.png",
-        "type": "file",
-        "md5": "9f00021a8f15ff679644ffdb1253def2"
-    },
-    {
         "path": "/media/website/HedgeTIDE-Image-27.jpg",
         "type": "file",
         "md5": "5d0977779fe2d60f60d3e725b1d3694a"
     },
     {
+        "path": "/media/website/Hedgetide-MethodTM-Logo-01.webp",
+        "type": "file",
+        "md5": "8b05b1604ee71c4cb3ae1db469078ea6"
+    },
+    {
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/website/responsive/HedgeTIDE-Image-24-lg.png",
-        "type": "file",
-        "md5": "5686c3475dac5e5de7c5d753ce71f6b6"
-    },
-    {
-        "path": "/media/website/responsive/HedgeTIDE-Image-24-md.png",
-        "type": "file",
-        "md5": "5686c3475dac5e5de7c5d753ce71f6b6"
-    },
-    {
-        "path": "/media/website/responsive/HedgeTIDE-Image-24-sm.png",
-        "type": "file",
-        "md5": "20f7ba442fb162b437e1273702b2004f"
-    },
-    {
-        "path": "/media/website/responsive/HedgeTIDE-Image-24-xl.png",
-        "type": "file",
-        "md5": "5686c3475dac5e5de7c5d753ce71f6b6"
-    },
-    {
-        "path": "/media/website/responsive/HedgeTIDE-Image-24-xs.png",
-        "type": "file",
-        "md5": "528eab934c17eaaaf9d6016c20593fac"
-    },
-    {
-        "path": "/media/website/responsive/HedgeTIDE-Image-24-xxl.png",
-        "type": "file",
-        "md5": "5686c3475dac5e5de7c5d753ce71f6b6"
-    },
-    {
-        "path": "/media/website/responsive/HedgeTIDE-Image-24-xxxl.png",
-        "type": "file",
-        "md5": "5686c3475dac5e5de7c5d753ce71f6b6"
     },
     {
         "path": "/media/website/responsive/HedgeTIDE-Image-27-lg.jpg",
@@ -948,6 +913,41 @@
         "path": "/media/website/responsive/HedgeTIDE-Image-27-xxxl.jpg",
         "type": "file",
         "md5": "ba494a413b8104826070a9ef778b5321"
+    },
+    {
+        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-lg.webp",
+        "type": "file",
+        "md5": "e7ad4a47728e83b69e590621ebc19aed"
+    },
+    {
+        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-md.webp",
+        "type": "file",
+        "md5": "e7ad4a47728e83b69e590621ebc19aed"
+    },
+    {
+        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-sm.webp",
+        "type": "file",
+        "md5": "7e589f5874464452b267ebf6eec3a837"
+    },
+    {
+        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-xl.webp",
+        "type": "file",
+        "md5": "e7ad4a47728e83b69e590621ebc19aed"
+    },
+    {
+        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-xs.webp",
+        "type": "file",
+        "md5": "3fba7cf836025ee7e3a42745e951b01c"
+    },
+    {
+        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-xxl.webp",
+        "type": "file",
+        "md5": "e7ad4a47728e83b69e590621ebc19aed"
+    },
+    {
+        "path": "/media/website/responsive/Hedgetide-MethodTM-Logo-01-xxxl.webp",
+        "type": "file",
+        "md5": "e7ad4a47728e83b69e590621ebc19aed"
     },
     {
         "path": "robots.txt",
