@@ -347,7 +347,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c1f4acea0eadeff2d0797163be29b6e6"
+        "md5": "a26741edd640e9ff7105e1174fdd73a9"
     },
     {
         "path": "media",
@@ -393,11 +393,6 @@
         "path": "/media/posts/3/HedgeTIDE-Description-Images-2.webp",
         "type": "file",
         "md5": "462dab91e2d05ef0eac14072a759f8ea"
-    },
-    {
-        "path": "/media/posts/3/HedgeTIDE-Descriptions-2.webp",
-        "type": "file",
-        "md5": "ede3069f4f051682aab61ab114c48365"
     },
     {
         "path": "/media/posts/3/HedgeTIDE-Modules-2.webp",
