@@ -25,22 +25,33 @@
                     this.classList.add('is-loaded');
                 }, false);
             }
-        }</script><div id="sitelock-badge-container" style="display: none;"><p><span style="display: block; text-align: right; width: 100%;"><span id="dynamic-copyright">© 2025-<span id="current-year"></span>&#44;&nbsp;Hedgetide Limited</span></span></p><br><a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=hedgetide.com','SiteLock','width=600,height=600,left=160,top=170');" style="display: inline-block; margin-top: 12px;"><img class="img-fluid" alt="SiteLock" title="SiteLock" src="https://shield.sitelock.com/shield/hedgetide.com"></a></div><script>document.addEventListener("DOMContentLoaded", function() {
-    // A. Obtains current year from visitor's device clock dynamically
-    var year = new Date().getFullYear();
-    var yearContainer = document.getElementById('current-year');
-    if (yearContainer) {
-        yearContainer.textContent = year;
-    }
+        }</script><div id="sitelock-badge-container" style="display: none;"><span style="display: block; text-align: right; width: 100%; font-size: 0.78rem; margin-top: 1.5rem;"><span id="dynamic-copyright">© 2025-<span id="current-year"></span>,&nbsp;Hedgetide Limited</span> </span><span style="display: block; clear: both; height: 0.75rem;"></span><a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=hedgetide.com','SiteLock','width=600,height=600,left=160,top=170');" style="display: inline-block;"><img class="img-fluid" alt="SiteLock" title="SiteLock" src="https://shield.sitelock.com/shield/hedgetide.com" style="border: none !important; background: transparent !important; box-shadow: none !important;"></a></div><script>document.addEventListener("DOMContentLoaded", function() {
+    (function() {
+        // A. Evaluates year dynamically (device clock logic)
+        var visitorYear = new Date().getFullYear();
+        var yearContainer = document.getElementById('current-year');
+        var copyrightSpan = document.getElementById('dynamic-copyright');
 
-    // B. Relocates entire package cleanly into theme's native paragraph
-    var badge = document.getElementById('sitelock-badge-container');
-    var themeFooterP = document.querySelector('.footer__copyright p') ||
-                       document.querySelector('footer p') ||
-                       document.querySelector('.footer p');
-                      
-    if (badge && themeFooterP) {
-        badge.style.display = 'inline'; // Remains 'inline' to avoid disrupting theme's <p> structure
-        themeFooterP.appendChild(badge);
-    }
+        if (visitorYear >= 2026) {
+            if (yearContainer) {
+                yearContainer.textContent = visitorYear;
+            }
+        } else {
+            if (copyrightSpan) {
+                copyrightSpan.innerHTML = "© 2025,&nbsp;Hedgetide Limited";
+            }
+        }
+
+        // B. Relocates entire package cleanly into theme's native paragraph container
+        var badge = document.getElementById('sitelock-badge-container');
+        var themeFooterP = document.querySelector('.footer__copyright p') ||
+                           document.querySelector('footer p') ||
+                           document.querySelector('.footer p');
+
+        if (badge && themeFooterP) {
+            badge.style.display = 'inline'; // Remains 'inline' protecting theme structure
+
+            themeFooterP.appendChild(badge);
+        }
+    })();
 });</script></body></html>
