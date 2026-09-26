@@ -112,7 +112,7 @@
     {
         "path": "/hedgetidetm-2/about/index.html",
         "type": "file",
-        "md5": "574e463ca729a8a39514e5803d54e423"
+        "md5": "b6e8ca66f985e5e2f03dea5a0f57b957"
     },
     {
         "path": "hedgetidetm-2/contact",
@@ -122,7 +122,7 @@
     {
         "path": "/hedgetidetm-2/contact/index.html",
         "type": "file",
-        "md5": "35bc9527b59b53ba27046a0e3c2a81ec"
+        "md5": "02f8add0c318584c004bb6ecf3a7fcd1"
     },
     {
         "path": "hedgetidetm-2/cookie-policy",
@@ -192,7 +192,7 @@
     {
         "path": "/hedgetidetm-2/heuristic-module/index.html",
         "type": "file",
-        "md5": "67872208cf1bd6bac7dfebfbdda55041"
+        "md5": "750db64dd0cf68b35d900fc6b85b253a"
     },
     {
         "path": "hedgetidetm-2/institutional-module",
@@ -202,7 +202,7 @@
     {
         "path": "/hedgetidetm-2/institutional-module/index.html",
         "type": "file",
-        "md5": "09f7a881f48a1ffed32dd85aa744ac6c"
+        "md5": "106f034907e9fcbf63f886452494f6d2"
     },
     {
         "path": "hedgetidetm-2/non-disclosure-agreement",
@@ -232,7 +232,7 @@
     {
         "path": "/hedgetidetm-2/non-predictive-trading-2/index.html",
         "type": "file",
-        "md5": "76e347f58dbf24f769d4cd038434eb9d"
+        "md5": "e8cfaba47d3554d221fcac58a995f933"
     },
     {
         "path": "hedgetidetm-2/privacy-policy",
@@ -292,7 +292,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-funding/index.html",
         "type": "file",
-        "md5": "419e3b873cb623a1dfa0c831b8f79734"
+        "md5": "427ec601c3119838979febff888766eb"
     },
     {
         "path": "hedgetidetm-2/refund-policy",
@@ -342,12 +342,12 @@
     {
         "path": "/hedgetidetm-2/vip-module/index.html",
         "type": "file",
-        "md5": "456b7260428a7f7139807e05636ff1a6"
+        "md5": "4a042b4146e788c001f8fe70cf3d98b3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b11c0c64843dcbf29076baa23f2dcfdc"
+        "md5": "be84b33801ea2c5eb48f6eb6303a432c"
     },
     {
         "path": "media",
