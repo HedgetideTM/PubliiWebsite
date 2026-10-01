@@ -112,7 +112,7 @@
     {
         "path": "/hedgetidetm-2/about/index.html",
         "type": "file",
-        "md5": "ea59b60bf6efe3ff7e52a90e287db881"
+        "md5": "aeda5564b7d9fedde090e650ece8340d"
     },
     {
         "path": "hedgetidetm-2/contact",
@@ -122,7 +122,7 @@
     {
         "path": "/hedgetidetm-2/contact/index.html",
         "type": "file",
-        "md5": "9f0d2fb419971f2babe88598396c5e3f"
+        "md5": "03f18ec6e396c7724b0922d3c42875a5"
     },
     {
         "path": "hedgetidetm-2/cookie-policy",
@@ -192,7 +192,7 @@
     {
         "path": "/hedgetidetm-2/heuristic-module/index.html",
         "type": "file",
-        "md5": "7b4aa59cef2d612c3d52a047f43aeda6"
+        "md5": "18c75c6e1b60dc911deec44a42d7eb40"
     },
     {
         "path": "hedgetidetm-2/institutional-module",
@@ -202,7 +202,7 @@
     {
         "path": "/hedgetidetm-2/institutional-module/index.html",
         "type": "file",
-        "md5": "1c98bed97f156b121f3d761671c4d6c1"
+        "md5": "377dacf57bb681c7ca1f97d4c90d0075"
     },
     {
         "path": "hedgetidetm-2/non-disclosure-agreement",
@@ -232,7 +232,7 @@
     {
         "path": "/hedgetidetm-2/non-predictive-trading-2/index.html",
         "type": "file",
-        "md5": "d0c1715fbe82fbbe364380a5c000a7e0"
+        "md5": "fa97152bf393696733836c6025f8762d"
     },
     {
         "path": "hedgetidetm-2/privacy-policy",
@@ -292,7 +292,7 @@
     {
         "path": "/hedgetidetm-2/proprietary-funding/index.html",
         "type": "file",
-        "md5": "414b2d95ab505311bd2abcded2b08134"
+        "md5": "8a5424cb2d9f9d5b4c281336d0af5b9f"
     },
     {
         "path": "hedgetidetm-2/refund-policy",
@@ -342,12 +342,12 @@
     {
         "path": "/hedgetidetm-2/vip-module/index.html",
         "type": "file",
-        "md5": "02fa65ee3f0f07a479a2dd8813a8c184"
+        "md5": "9e36ba25d51981298afe2c706a8721b5"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "aad3f090c7c3eef7a3122ccc9ab76bfe"
+        "md5": "2e1d6033c118a4119b41a941ac74300d"
     },
     {
         "path": "media",
